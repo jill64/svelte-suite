@@ -45,8 +45,8 @@
   ],
   "prettier": "@jill64/prettier-config",
   "scripts": {
-    "build": "tsc",
-    "lint": "npx eslint . && npx publint",
+    "build": "tsc && npx publint",
+    "lint": "npx eslint . && npx depcheck",
     "format": "npx prettier -w ."
   },
   "peerDependencies": {
