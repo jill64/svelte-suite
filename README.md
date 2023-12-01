@@ -1,2 +1,2 @@
-# svelte-suite
-🍰 Library Suite for quickly building SvelteKit Apps
+<!----- BEGIN GHOST DOCS HEADER ----->
+<!----- END GHOST DOCS HEADER ----->
