@@ -15,6 +15,7 @@ export {
 
 export { OGP, attach as ogpAttach } from '@jill64/svelte-ogp'
 export { define as defineQparam, qparam } from 'svelte-qparam'
+export type { Qparam } from 'svelte-qparam/types'
 
 export { Menu } from '@jill64/svelte-menu'
 export { storage } from '@jill64/svelte-storage'
