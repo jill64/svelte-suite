@@ -1,6 +1,6 @@
 {
   "name": "@jill64/svelte-suite",
-  "description": "",
+  "description": "🍰 Library Suite for quickly building SvelteKit Apps",
   "version": "0.0.0",
   "main": "index.js",
   "type": "module",
@@ -10,7 +10,9 @@
   "homepage": "https://github.com/jill64/svelte-suite#readme",
   "files": [
     "index.js",
-    "serde.js"
+    "serde.js",
+    "!*.test.*",
+    "!*.spec.*"
   ],
   "exports": {
     "./serde": "./serde.js",
@@ -23,7 +25,11 @@
   "publishConfig": {
     "access": "public"
   },
-  "keywords": [],
+  "keywords": [
+    "suite",
+    "svelte",
+    "sveltekit"
+  ],
   "prettier": "@jill64/prettier-config",
   "scripts": {
     "lint": "npx publint",
