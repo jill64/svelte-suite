@@ -1,7 +1,7 @@
 {
   "name": "@jill64/svelte-suite",
   "description": "🍰 Library Suite for quickly building SvelteKit Apps",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "main": "dist/index.js",
   "type": "module",
   "license": "MIT",
