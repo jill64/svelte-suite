@@ -6,10 +6,4 @@
 
 🍰 Library Suite for quickly building SvelteKit Apps
 
-## Installation
-
-```sh
-npm i @jill64/svelte-suite
-```
-
 <!----- END GHOST DOCS HEADER ----->
