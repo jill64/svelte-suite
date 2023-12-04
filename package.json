@@ -68,7 +68,7 @@
     "@jill64/svelte-toast": "1.2.1",
     "svelte-feather-icons": "4.0.1",
     "svelte-inline-modal": "1.1.0",
-    "svelte-qparam": "0.1.1",
+    "svelte-qparam": "0.1.2",
     "ts-serde": "0.4.0"
   }
 }
