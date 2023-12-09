@@ -64,7 +64,7 @@
     "@jill64/svelte-input": "1.5.2",
     "@jill64/svelte-menu": "0.0.3",
     "@jill64/svelte-ogp": "0.1.0",
-    "@jill64/svelte-storage": "0.0.5",
+    "@jill64/svelte-storage": "1.0.0",
     "@jill64/svelte-toast": "1.2.5",
     "svelte-feather-icons": "4.0.1",
     "svelte-inline-modal": "1.1.0",
