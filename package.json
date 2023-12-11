@@ -5,7 +5,12 @@
   "main": "dist/index.js",
   "type": "module",
   "license": "MIT",
-  "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
+  "author": {
+    "name": "jill64",
+    "email": "143883742+jill64@users.noreply.github.com",
+    "url": "https://github.com/jill64",
+    "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
+  },
   "bugs": "https://github.com/jill64/svelte-suite/issues",
   "homepage": "https://github.com/jill64/svelte-suite#readme",
   "files": [
@@ -33,12 +38,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jill64/svelte-suite.git"
+    "url": "https://github.com/jill64/svelte-suite.git",
+    "image": "https://opengraph.githubassets.com/2fba479ca3daecacd612d0e4d3f925e06e79b505162539bc123615e9e34101a6/jill64/svelte-suite"
   },
   "publishConfig": {
     "access": "public"
   },
   "keywords": [
+    "library",
     "suite",
     "svelte",
     "sveltekit"
@@ -54,7 +61,7 @@
     "svelte": "^4.0.0"
   },
   "devDependencies": {
-    "@jill64/eslint-config-ts": "1.0.1",
+    "@jill64/eslint-config-ts": "1.0.2",
     "@jill64/prettier-config": "1.0.0",
     "typescript": "5.3.3"
   },
