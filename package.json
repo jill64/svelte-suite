@@ -70,7 +70,7 @@
     "@jill64/svelte-i18n": "0.2.6",
     "@jill64/svelte-input": "1.6.0",
     "@jill64/svelte-menu": "1.0.0",
-    "@jill64/svelte-ogp": "0.1.0",
+    "@jill64/svelte-ogp": "1.0.0",
     "@jill64/svelte-storage": "1.0.1",
     "@jill64/svelte-toast": "1.2.5",
     "svelte-feather-icons": "4.0.1",
