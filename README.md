@@ -29,3 +29,11 @@ npm i @jill64/svelte-suite
 | [svelte-feather-icons](https://github.com/dylanblokhuis/svelte-feather-icons) | `/icons` |
 | [@jill64/svelte-input](https://github.com/jill64/svelte-input)                | `/input` |
 | [ts-serde](https://github.com/jill64/ts-serde)                                | `/serde` |
+
+<!----- BEGIN GHOST DOCS FOOTER ----->
+
+## License
+
+MIT
+
+<!----- END GHOST DOCS FOOTER ----->
