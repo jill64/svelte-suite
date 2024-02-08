@@ -2,11 +2,11 @@
 
 # @jill64/svelte-suite
 
-
 <!----- BEGIN GHOST DOCS BADGES ----->
-<a href="https://npmjs.com/package/@jill64/svelte-suite"><img src="https://img.shields.io/npm/v/@jill64/svelte-suite" alt="npm-version" /></a> <a href="https://npmjs.com/package/@jill64/svelte-suite"><img src="https://img.shields.io/npm/l/@jill64/svelte-suite" alt="npm-license" /></a> <a href="https://npmjs.com/package/@jill64/svelte-suite"><img src="https://img.shields.io/npm/dm/@jill64/svelte-suite" alt="npm-download-month" /></a> <a href="https://npmjs.com/package/@jill64/svelte-suite"><img src="https://img.shields.io/bundlephobia/min/@jill64/svelte-suite" alt="npm-min-size" /></a>
-<!----- END GHOST DOCS BADGES ----->
 
+<a href="https://npmjs.com/package/@jill64/svelte-suite"><img src="https://img.shields.io/npm/v/@jill64/svelte-suite" alt="npm-version" /></a> <a href="https://npmjs.com/package/@jill64/svelte-suite"><img src="https://img.shields.io/npm/l/@jill64/svelte-suite" alt="npm-license" /></a> <a href="https://npmjs.com/package/@jill64/svelte-suite"><img src="https://img.shields.io/npm/dm/@jill64/svelte-suite" alt="npm-download-month" /></a> <a href="https://npmjs.com/package/@jill64/svelte-suite"><img src="https://img.shields.io/bundlephobia/min/@jill64/svelte-suite" alt="npm-min-size" /></a>
+
+<!----- END GHOST DOCS BADGES ----->
 
 🍰 Library Suite for quickly building SvelteKit Apps
 
@@ -38,6 +38,6 @@ npm i @jill64/svelte-suite
 
 ## License
 
-MIT
+[MIT](LICENSE)
 
 <!----- END GHOST DOCS FOOTER ----->
