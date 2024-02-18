@@ -30,8 +30,8 @@
       "default": "./dist/serde.js"
     },
     "./i18n/app": {
-      "types": "./dist/i18n/app.d.ts",
-      "default": "./dist/i18n/app.js"
+      "types": "./dist/i18nApp.d.ts",
+      "default": "./dist/i18nApp.js"
     },
     "./i18n": {
       "types": "./dist/i18n.d.ts",
