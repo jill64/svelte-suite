@@ -29,6 +29,14 @@
       "types": "./dist/serde.d.ts",
       "default": "./dist/serde.js"
     },
+    "./i18n/app": {
+      "types": "./dist/i18n/app.d.ts",
+      "default": "./dist/i18n/app.js"
+    },
+    "./i18n": {
+      "types": "./dist/i18n.d.ts",
+      "default": "./dist/i18n.js"
+    },
     ".": {
       "types": "./dist/index.d.ts",
       "default": "./dist/index.js"
@@ -66,7 +74,7 @@
   },
   "dependencies": {
     "@jill64/svelte-dark-theme": "2.3.32",
-    "@jill64/svelte-i18n": "1.0.13",
+    "@jill64/svelte-i18n": "1.1.0",
     "@jill64/svelte-input": "1.6.13",
     "@jill64/svelte-menu": "1.0.11",
     "@jill64/svelte-ogp": "1.1.11",
