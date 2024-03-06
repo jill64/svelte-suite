@@ -70,7 +70,7 @@
   "devDependencies": {
     "@jill64/eslint-config-ts": "1.1.9",
     "@jill64/prettier-config": "1.0.0",
-    "typescript": "5.3.3"
+    "typescript": "5.4.2"
   },
   "dependencies": {
     "@jill64/svelte-dark-theme": "2.3.38",
