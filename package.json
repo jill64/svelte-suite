@@ -7,7 +7,7 @@
   "license": "MIT",
   "author": {
     "name": "jill64",
-    "email": "intents.turrets0h@icloud.com",
+    "email": "contact@jill64.dev",
     "url": "https://github.com/jill64",
     "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
   },
@@ -45,7 +45,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/svelte-suite.git",
-    "image": "https://opengraph.githubassets.com/f46ca5b23e63dd3aaf98def36e700dd712b9ed858187212db8f2d3839d32bbe3/jill64/svelte-suite"
+    "image": "https://opengraph.githubassets.com/d69a8e471d457b77ee0b74dce693ed573ecba6c78ad40439178ad482e0a9a1dd/jill64/svelte-suite"
   },
   "publishConfig": {
     "access": "public"
