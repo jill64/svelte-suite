@@ -74,7 +74,7 @@
   },
   "dependencies": {
     "@jill64/svelte-dark-theme": "2.3.70",
-    "@jill64/svelte-i18n": "1.1.31",
+    "@jill64/svelte-i18n": "1.1.32",
     "@jill64/svelte-input": "1.6.27",
     "@jill64/svelte-menu": "1.0.21",
     "@jill64/svelte-ogp": "1.1.25",
