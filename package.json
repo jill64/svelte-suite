@@ -73,7 +73,7 @@
     "typescript": "5.5.3"
   },
   "dependencies": {
-    "@jill64/svelte-dark-theme": "2.3.84",
+    "@jill64/svelte-dark-theme": "2.3.85",
     "@jill64/svelte-i18n": "1.1.42",
     "@jill64/svelte-input": "1.6.32",
     "@jill64/svelte-menu": "1.0.24",
