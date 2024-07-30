@@ -1,7 +1,7 @@
 {
   "name": "@jill64/svelte-suite",
   "description": "🍰 Library Suite for quickly building SvelteKit Apps",
-  "version": "1.2.225",
+  "version": "1.2.226",
   "main": "dist/index.js",
   "type": "module",
   "license": "MIT",
@@ -73,7 +73,7 @@
     "typescript": "5.5.4"
   },
   "dependencies": {
-    "@jill64/svelte-dark-theme": "2.3.91",
+    "@jill64/svelte-dark-theme": "2.3.92",
     "@jill64/svelte-i18n": "1.1.47",
     "@jill64/svelte-input": "1.6.34",
     "@jill64/svelte-menu": "1.0.26",
