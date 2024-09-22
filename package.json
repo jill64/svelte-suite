@@ -1,7 +1,7 @@
 {
   "name": "@jill64/svelte-suite",
   "description": "🍰 Library Suite for quickly building SvelteKit Apps",
-  "version": "1.2.235",
+  "version": "1.2.236",
   "main": "dist/index.js",
   "type": "module",
   "license": "MIT",
@@ -45,7 +45,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/svelte-suite.git",
-    "image": "https://opengraph.githubassets.com/9344e0a476901ca20811534d70de525f9e7017c0a40551d2cb6bbaa0f3e30ff3/jill64/svelte-suite"
+    "image": "https://opengraph.githubassets.com/c4ff29d45e1d3cc9081fc56f7a95f551d30e24bb4c35324110c6769ff9bf7b7e/jill64/svelte-suite"
   },
   "publishConfig": {
     "access": "public"
@@ -79,7 +79,7 @@
     "@jill64/svelte-menu": "1.0.28",
     "@jill64/svelte-ogp": "1.1.32",
     "@jill64/svelte-storage": "1.2.2",
-    "@jill64/svelte-toast": "1.3.50",
+    "@jill64/svelte-toast": "1.3.51",
     "svelte-feather-icons": "4.1.0",
     "svelte-inline-modal": "1.1.22",
     "svelte-qparam": "1.0.30",
