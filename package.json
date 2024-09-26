@@ -83,6 +83,6 @@
     "svelte-feather-icons": "4.1.0",
     "svelte-inline-modal": "1.1.22",
     "svelte-qparam": "1.0.32",
-    "ts-serde": "1.0.7"
+    "ts-serde": "1.0.8"
   }
 }
