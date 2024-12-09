@@ -68,7 +68,7 @@
     "svelte": "^4.0.0 || ^5.0.0"
   },
   "devDependencies": {
-    "@jill64/eslint-config-ts": "1.1.55",
+    "@jill64/eslint-config-ts": "1.1.56",
     "@jill64/prettier-config": "1.0.0",
     "typescript": "5.7.2"
   },
