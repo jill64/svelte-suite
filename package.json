@@ -45,7 +45,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-suite.git",
-    "image": "https://opengraph.githubassets.com/d39ee0b580cda2987397afd980c15dc97c91363d5d2b5da8852aecfa014117a1/jill64/svelte-suite"
+    "image": "https://opengraph.githubassets.com/b7743ee351a3d7871cdfebbd6349012e66381fb09cd24cf1bf38880cc76b6aac/jill64/svelte-suite"
   },
   "publishConfig": {
     "access": "public"
@@ -68,7 +68,7 @@
     "svelte": "^4.0.0 || ^5.0.0"
   },
   "devDependencies": {
-    "@jill64/eslint-config-ts": "1.1.55",
+    "@jill64/eslint-config-ts": "1.1.56",
     "@jill64/prettier-config": "1.0.0",
     "typescript": "5.7.2"
   },
