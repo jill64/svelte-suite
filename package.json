@@ -45,7 +45,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-suite.git",
-    "image": "https://opengraph.githubassets.com/563c34df0dee94e3bd82d20c724d29ba4add048bdf6b286d1a62d188e09092ee/jill64/svelte-suite"
+    "image": "https://opengraph.githubassets.com/e4162424741c675f8b2c4c62a0552ee09ca3ddd45c1ab9e6ab5dc82e3cbc24ba/jill64/svelte-suite"
   },
   "publishConfig": {
     "access": "public"
