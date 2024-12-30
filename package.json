@@ -81,7 +81,7 @@
     "@jill64/svelte-storage": "2.0.0",
     "@jill64/svelte-toast": "2.1.5",
     "svelte-feather-icons": "4.2.0",
-    "svelte-inline-modal": "2.0.0",
+    "svelte-inline-modal": "2.0.1",
     "svelte-qparam": "2.1.1",
     "ts-serde": "1.0.8"
   }
