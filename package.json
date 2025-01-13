@@ -1,7 +1,7 @@
 {
   "name": "@jill64/svelte-suite",
   "description": "🍰 Library Suite for quickly building SvelteKit Apps",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "main": "dist/index.js",
   "type": "module",
   "license": "MIT",
@@ -45,7 +45,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-suite.git",
-    "image": "https://opengraph.githubassets.com/0c9b1533f24d647474c65eaeb43419b596cfe5028b929712deeb7e4c7a37c00b/jill64/svelte-suite"
+    "image": "https://opengraph.githubassets.com/ba990f6434294f2727236b84507815112e0ac33e8333c67c1cf9969635fb10e7/jill64/svelte-suite"
   },
   "publishConfig": {
     "access": "public"
@@ -70,11 +70,11 @@
   "devDependencies": {
     "@jill64/eslint-config-ts": "2.0.3",
     "@jill64/prettier-config": "1.0.0",
-    "typescript": "5.7.2"
+    "typescript": "5.7.3"
   },
   "dependencies": {
     "@jill64/svelte-dark-theme": "5.1.1",
-    "@jill64/svelte-i18n": "2.0.0",
+    "@jill64/svelte-i18n": "2.1.0",
     "@jill64/svelte-input": "2.0.1",
     "@jill64/svelte-menu": "2.0.0",
     "@jill64/svelte-ogp": "2.0.1",
