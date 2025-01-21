@@ -1,1 +1,6 @@
-export { LanguageManager, LocaleAlternates, init } from '@jill64/svelte-i18n'
+export {
+  LanguageManager,
+  LocaleAlternates,
+  init,
+  LanguageSwitcher
+} from '@jill64/svelte-i18n'
