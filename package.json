@@ -58,10 +58,10 @@
   ],
   "prettier": "@jill64/prettier-config",
   "scripts": {
-    "build": "tsc && npx publint",
-    "prepack": "npm run build",
-    "lint": "npx eslint . && npx depcheck",
-    "format": "npx prettier -w ."
+    "build": "tsc && bunx publint",
+    "prepack": "bun run build",
+    "lint": "bunx eslint .",
+    "format": "bunx prettier -w ."
   },
   "peerDependencies": {
     "@sveltejs/kit": "^2.0.0",
